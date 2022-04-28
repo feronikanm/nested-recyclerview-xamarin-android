@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecyclerView7", "RecyclerView7\RecyclerView7.csproj", "{FEA5EFBC-7B52-4E95-B82D-08BB14A1BBF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEA5EFBC-7B52-4E95-B82D-08BB14A1BBF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA5EFBC-7B52-4E95-B82D-08BB14A1BBF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA5EFBC-7B52-4E95-B82D-08BB14A1BBF7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FEA5EFBC-7B52-4E95-B82D-08BB14A1BBF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA5EFBC-7B52-4E95-B82D-08BB14A1BBF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA5EFBC-7B52-4E95-B82D-08BB14A1BBF7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {839AE531-B882-430C-9865-B86D325F7AFB}
+	EndGlobalSection
+EndGlobal
